@@ -1,0 +1,17 @@
+body { 
+    font-family:Tahoma, sans-serif;
+    font-size:16px;
+}
+
+h1 {
+    font-size:30px;
+    font-family:Arial;
+}
+
+.blue-background {
+    background-color: blue;
+    }
+
+.red-background {
+    background-color: red;
+    }
